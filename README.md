@@ -141,7 +141,7 @@ The drape is a rectangular piece of LDPE with dimensions 85” x 40” . Refer t
 A small sheet of LDPE (Same as Drape) is stuck on the back plate and tucked under the baseplate to cover the gap between the baseplate and the back wall to maintain the seal.
 
 ### Assembly
-![Apollo3 Patient Isolation Hood](assets/9_Assembly.jpg)
+![Apollo3 Patient Isolation Hood](assets/9_Assembly.png)
 > 
 - Step 01: Place Apollo PIH enclosure on a flat surface with the folded baseplate facing upwards.  
 - Step 02: Fasten the opposing sides of the baseplate together using two push-in rivets located on the baseplate.  See detail A for connection detail.  
