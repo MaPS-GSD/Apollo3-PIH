@@ -179,3 +179,48 @@ Multiple iterations of the armport design were undertaken with various materials
 - Version d makes use of disposable PPE sleeves widely available in many material types. The sleeve is stretched around a rubber porthole seal (such as [this product).
 - Version g simply uses two pieces of the drape material with an overlap to help limit air escape when in use.
 - Clear PVC sheets were experimented with in both 0.08” and 0.04” thicknesses but were found to be too stiff to work properly and often grabbed at the sleeves and gloves when in use. 
+
+## Documentation
+> Contact Sheet Here 🖼
+
+
+## Attribution 
+
+Attribution Report 
+- **PIH Dimensions:** 
+MGB Group + Boston Children’s Hospital
+- **Form/Concept:**
+Saurabh Mhatre, Christopher Hansen, Nathan Phipps, Eric Howeler, Samuel Smith, MD, 
+-  **Feature List (Incl Suction Ports):**
+MGB
+- **Arm Ports
+Design:** Daniel Tish, Daniel Castello, Christopher Hansen, Jonathan Grinham, 
+- **Clinical Input:** Samuel Smith, MD; 
+- **Base Structure/Attachment Mechanism:**
+Nathan Phipps, 
+- **Drape:**
+Nathan Phipps, Chris Hansen, 
+
+## Acknowledgements
+- Several clinicians provided key clinical feedback that drove design decisions, from MGH Anesthesia: Samuel Smith, MD, MPH; JP Wang, MD, PhD; Michelle Szabo, MD; Scott Streckenbach, MD; Alex Kuo, MD; Kendrick Shaw, MD, PhD; Angela Dai; Matt Vanneman, MD; Celeste Day.  From MGH Pediatrics, Kris Olson.  From the MGB Center for COVID Innovation; Li Li, PhD; Aditya Kumar; and Gary Tearney, MD, PHD.  
+- Chris Hansen, Digital Fabrication Technical Specialist at the Harvard GSD;  Eric Howeler, Associate Professor of Architecture at the GSD; Saurabh Mhatre, Research Associate at the Harvard GSD; and Nathan Phipps, played key roles in refining, prototyping, and coordinating fabrication of the Apollo 3 design. Zach Seibold, Jonathan Grinham, Daniel Tish, Daniel Castello and Ryan Pierce participated in design iteration and early prototyping.  
+- James Weaver, Senior Research Scientist at the Wyss, facilitated the initial collaboration and has been instrumental in sourcing materials. 
+- The Boston Children’s Hospital Surgical Innovation Fellowship team, including Heung Bae Kim, MD; Farokh Demehri, MD; Robert Crum, MD; Kyle Wu, MD; Brianna Slatnick, MD; and Alex Yang, BS, helped to develop the first versions of the Apollo design and provided clinical input throughout the design process.
+- Initial design prototypes were produced with the help of PolyFab, and Roger Diebold (CEO, Solchroma Technologies) along with H. Loeb Corporation.
+
+## References
+
+### Press
+- Harvard GSD Press Release [Link]()
+- Selected Articles
+    - https://news.harvard.edu/gazette/story/2020/04/graduate-school-of-design-begins-ppe-production-for-area-hospitals/                                                 
+    - https://www.architecturalrecord.com/articles/14570-architects-and-engineers-help-develop-isolation-hood-for-covid-19-patients     
+    - https://archinect.com/news/article/150193745/harvard-ppe-team-uses-slack-to-design-patient-isolation-hood-for-hospital-use
+    - https://www.dezeen.com/2020/04/20/patient-isolation-hood-coronavirus-personal-protective-equipment/            
+    - https://www.dezeen.com/2020/04/21/design-input-healthcare-risk/                        
+    - https://archpaper.com/2020/04/harvard-gsd-local-hospitals-coronavirus-personal-protective-equipment/  
+
+### Similar Efforts
+- [MIT Center for Bits and Atoms](https://gitlab.cba.mit.edu/pub/coronavirus/tracking)
+- [Toledo plastic companies](https://www.wtol.com/article/news/health/coronavirus/local-plastic-companies-create-device-for-protecting-healthcare-workers/512-0068d863-82f7-436e-97ea-66212c4a67f8)
+- 
