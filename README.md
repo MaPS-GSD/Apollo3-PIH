@@ -196,8 +196,6 @@ Attribution Report
 MGB Group + Boston Children’s Hospital
 - **Form/Concept:**
 Saurabh Mhatre, Christopher Hansen, Nathan Phipps, Eric Howeler, Samuel Smith, MD, 
--  **Feature List (Incl Suction Ports):**
-MGB
 - **Arm Ports
 Design:** Daniel Tish, Daniel Castello, Christopher Hansen, Jonathan Grinham, 
 - **Clinical Input:** Samuel Smith, MD; 
