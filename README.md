@@ -1,8 +1,7 @@
-# Apollo3-PIH
+# Apollo3-Patient Isolation Hood
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Apollo3 Patient Isolation Hood
 ![Apollo3 Patient Isolation Hood](assets/0_TitleImage_Hero.jpg)
 ## General Information
 
@@ -17,10 +16,6 @@ Apollo3 Patient Isolation Hood
 
 
 ### Disclaimer
-Please note: On Friday, May 1 the FDA issued an Emergency Use Authorization for Protective Barrier Enclosures.  The authorization provides specific guidance for manufacturing.  The Apollo PIH has not yet been evaluated with respect to these guidelines.  The letter and two associated fact sheets are available at [https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe).  
-
-Please also note: The Apollo PIH is under active development and refinement.  Please check this repository often for design modifications and additional information. 
-
 The Apollo PIH has been tested by clinicians at Massachusetts General Hospital and Boston Children's Hospital, but there are many different regulations regarding medical devices so please follow local guidelines that apply to your region. Please note that safety is the primary objective. Medical equipment must be approved before it is distributed. This is possibly a matter of life or death. 
 
 This work may be reproduced, modified, distributed, performed, and displayed for any purpose, but must acknowledge the Apollo PIH project. Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all liability.
@@ -30,7 +25,7 @@ Except where otherwise noted, content on this project is licensed under a [Creat
 ***
 ## Project Overview
 
-> ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.png)
+> ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.jpg)
 
 ### Description
 The Apollo Patient Isolation Hood (PIH) is a localized negative-pressure ventilation system for hospital beds to help contain the droplet spread of COVID-19, including during aerosol-generating medical procedures such as intubation and extubation. The PIH encloses a patient’s upper torso and head in a negative-pressure environment. It provides barrier protection between healthcare provider (HCP) and patient, and aerosol control via the negative pressure environment. The hood may also contain the spread of the virus from less critically-ill patients, reducing the need for invasive procedures.
@@ -41,9 +36,9 @@ The versatility of the Apollo PIH means that it can be used in any care setting 
 The primary design goal of the hood was to enclose the patient’s torso and head without restricting HCP ability to provide care or inducing claustrophobia in patients. The enclosure of the Apollo PIH derives its form and rigidity through the principle of active bending, a structural behavior achieved by the elastic deformation of initially flat elements. The main intention was to leverage this structural principle to create a stable, rapidly deployable 3D form that can be fabricated from readily available sheet materials using minimal joinery.
 
 ### Key Features
-The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 150 L in volume.
+The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 0.15 m3 in volume.
 
-> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.png)
+> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.jpg)
 
 Several key features of the prototype are outlined below:
 - (2) arm ports at the rear of the PIH provide healthcare provider (HCP) access to the patient. - An additional auxiliary port on one side of the PIH allows for additional patient access as needed.
@@ -52,7 +47,8 @@ Several key features of the prototype are outlined below:
 - Side arms provide a double thickness at the base of the PIH for stability and structure
 - Various suction ports accept common negative pressure hoses, including a ⅞” diameter (common in OR) as well as smaller 3/16” ID tubing (common in the ICU).  
 
-> ### Flow and Pressure Testing 👨‍⚕MGB
+> ### Flow and Pressure Testing - 👨‍⚕MGB
+> Work in Progress
 
 ## Production Details
 > Image 🤖
@@ -102,7 +98,7 @@ The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be 
   - Frequency: 10,000 PPI
 
 #### 2. Base-Plate Braking/Bending
- > Image 🤖
+ 
 ![Apollo3 Patient Isolation Hood](assets/3_Baseplate.jpg)
 *Caution : Do not score the material before bending/braking* 
 
@@ -192,16 +188,16 @@ Multiple iterations of the armport design were undertaken with various materials
 > Contact Sheet Here 🖼
 
 
-## Attribution Report
+## Attribution 
 
-The following individuals played key roles in the development of the functional elements of the Apollo PIH as listed below: 
-
+Attribution Report 
 - **PIH Dimensions:** 
-MGB Center for COVID Innovation + Boston Children’s Hospital Surgical Innovation Fellowship
+MGB Group + Boston Children’s Hospital
 - **Form/Concept:**
 Saurabh Mhatre, Christopher Hansen, Nathan Phipps, Eric Howeler, Samuel Smith, MD, 
 - **Arm Ports
 Design:** Daniel Tish, Daniel Castello, Christopher Hansen, Jonathan Grinham, 
+- **Clinical Input:** Samuel Smith, MD; 
 - **Base Structure/Attachment Mechanism:**
 Nathan Phipps, 
 - **Drape:**
