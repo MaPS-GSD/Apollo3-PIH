@@ -175,7 +175,9 @@ Below are some alternative details we have experimented with towards the end goa
 
 - **Arm Ports**
   >Image Here 🤖
-  ![Apollo3 Patient Isolation Hood](assets/12_Armport.jpg)
+    <p align="center">
+    <img height="500" src="assets/12_Armport.jpg">
+    </p>
 
 Multiple iterations of the armport design were undertaken with various materials and can be found in the diagram above. 
 - Versions a and f Require a thinner gauge or extensible material as they can otherwise restrict arm movements while in use. Version f also requires a secondary drape taped over the opening to maintain a seal
