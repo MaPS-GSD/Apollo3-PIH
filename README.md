@@ -81,3 +81,23 @@ Item Description  | Dimensions( in or sqrIn) | Quantity | Link | Notes
 *2. Must be low-surface-energy tape.*
 
 ---
+### Recommended Production Guidelines
+
+#### Enclosure
+#### 1. Cutting
+The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be cut using a number of CNC processes including a knife cutter, laser cutter, or router.  In the case of a CNC router, a ⅛” diameter endmill is required to successfully cut small interior features.  A list of suggested cut settings are provided below.  Please keep in mind that these settings are specific to the machines listed and will likely need to be modified for other scenarios. 
+- Knife Cutter ([Zund G3M2500](https://www.zund.com/en/cutting-systems/digital-cutting-systems/g3-cutter))
+  - Bed Size: 98” x 52”
+  - Tool: Universal Cutting Tool (UCT) with [glide shoe](https://shop.zund.us/en-us/products/alle-produkte/cutting-accessories/gliding-shoe))
+  - Blade: Type6 blade
+  - Depth: 0.02” per pass
+  - Speed : 6” per second 
+  - Total Time : ~ 18 minutes.
+- Laser Cutter (*450 Watt Multicam Magnus 48x96 CNC Laser, 4” Focal Lens*)
+  - Speed: 480 IPM
+  - Power 60%
+  - Frequency: 10,000 PPI
+
+#### 2. Base-Plate Braking/Bending
+ > Image 🤖
+![Apollo3 Patient Isolation Hood](assets/3_BasePlate.jpg)
