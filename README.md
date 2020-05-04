@@ -192,16 +192,16 @@ Multiple iterations of the armport design were undertaken with various materials
 > Contact Sheet Here 🖼
 
 
-## Attribution 
+## Attribution Report
 
-Attribution Report 
+The following individuals played key roles in the development of the functional elements of the Apollo PIH as listed below: 
+
 - **PIH Dimensions:** 
-MGB Group + Boston Children’s Hospital
+MGB Center for COVID Innovation + Boston Children’s Hospital Surgical Innovation Fellowship
 - **Form/Concept:**
 Saurabh Mhatre, Christopher Hansen, Nathan Phipps, Eric Howeler, Samuel Smith, MD, 
 - **Arm Ports
 Design:** Daniel Tish, Daniel Castello, Christopher Hansen, Jonathan Grinham, 
-- **Clinical Input:** Samuel Smith, MD; 
 - **Base Structure/Attachment Mechanism:**
 Nathan Phipps, 
 - **Drape:**
