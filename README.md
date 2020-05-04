@@ -30,7 +30,6 @@ Except where otherwise noted, content on this project is licensed under a [Creat
 ***
 ## Project Overview
 
-> Add image here 🤖
 > ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.png)
 
 ### Description
@@ -42,8 +41,8 @@ The versatility of the Apollo PIH means that it can be used in any care setting 
 The primary design goal of the hood was to enclose the patient’s torso and head without restricting HCP ability to provide care or inducing claustrophobia in patients. The enclosure of the Apollo PIH derives its form and rigidity through the principle of active bending, a structural behavior achieved by the elastic deformation of initially flat elements. The main intention was to leverage this structural principle to create a stable, rapidly deployable 3D form that can be fabricated from readily available sheet materials using minimal joinery.
 
 ### Key Features
-The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 0.15 m3 in volume.
-> Update image 🤖
+The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 150 L in volume.
+
 > ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.png)
 
 Several key features of the prototype are outlined below:
