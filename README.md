@@ -53,13 +53,13 @@ Several key features of the prototype are outlined below:
 
 ## Production Details
 > Image 🤖
-> ![Apollo3 Patient Isolation Hood](assets/2_ReferenceDrawing.jpg)
+![Apollo3 Patient Isolation Hood](assets/2_ReferenceDrawing.jpg)
 
 ### Bill of Materials
 
 Item Description  | Dimensions( in or sqrIn) | Quantity | Link | Notes
-  ------------- | ------------- | -------------| -------------| -------------| ------------- |
- 3/16" bungee cord  | 12" | 2 | [Amazon](https://www.amazon.com/T-W-Evans-Cordage-SC-316-100-100-Feet/dp/B00DKA4VQG/ref=sr_1_3?dchild=1&keywords=white+bungee+cord+3%2F16%22&qid=1587383739&s=sporting-goods&sr=1-3-catcorr)
+  |------------- | ------------- | -------------| -------------| -------------| ------------- |
+ 3/16" bungee cord |12"|2|[Amazon](https://www.amazon.com/T-W-Evans-Cordage-SC-316-100-100-Feet/dp/B00DKA4VQG/ref=sr_1_3?dchild=1&keywords=white+bungee+cord+3%2F16%22&qid=1587383739&s=sporting-goods&sr=1-3-catcorr)
  Velcro cord management strap  | n/a | 2 | [Amazon](https://www.amazon.com/Pasow-Reusable-Fastening-Adjustable-Management/dp/B01CFKQYAW/ref=sr_1_4?dchild=1&keywords=cord+management+velcro+white&qid=1587394037&sr=8-4)
  Adjustment Hook  | n/a | 2 | [Amazon](https://www.homedepot.com/p/ProGrip-Better-Than-Bungee-6-ft-100-lbs-Break-Strength-Particle-Rope-Lock-Paracord-055160/206957471?modalType=drawer)
  Push-In Rivet  | n/a | 17 | [McMaster-Carr](https://www.mcmaster.com/90136a574)
