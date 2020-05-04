@@ -83,7 +83,7 @@ Item Description  | Dimensions( in or sqrIn) | Quantity | Link | Notes
 ---
 ### Recommended Production Guidelines
 
-#### Enclosure
+#### A) Enclosure
 #### 1. Cutting
 The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be cut using a number of CNC processes including a knife cutter, laser cutter, or router.  In the case of a CNC router, a ⅛” diameter endmill is required to successfully cut small interior features.  A list of suggested cut settings are provided below.  Please keep in mind that these settings are specific to the machines listed and will likely need to be modified for other scenarios. 
 - Knife Cutter ([Zund G3M2500](https://www.zund.com/en/cutting-systems/digital-cutting-systems/g3-cutter))
@@ -110,5 +110,28 @@ Additional forming processes such as the use of a line brake or heat gun, or des
 ![Apollo3 Patient Isolation Hood](assets/4_Rivets.jpg)
 
 Push-in plastic rivets were selected as the preferred fastener, as they were simple to use and had no sharp edges that could catch on to clothing, medical instruments etc. 3/16” holes in the main enclosure facilitate the riveting and was done by hand. 16 rivets are needed (8 per side of symmetry) for maintaining the shape of the Apollo while 2 rivets (or 1 rivet & a button snap)are needed for the baseplate ( 1 to pivot (*red*) and 1 to lock (*blue*)).
-
 ![Apollo3 Patient Isolation Hood](assets/4a_Baseplatelock.gif)
+*The width of the Apollo can be adjusted by adjusting the location of the pivot and the lock.Multiple perforations can be added to have it adapt to a range of widths.*
+
+#### B) ArmPorts + Auxiliary Ports
+> Image Here 🤖
+
+Each arm and auxiliary port on the Apollo PIH is composed of three primary components - a laser-cut 5 mil TPU portal, a clear, double-sided adhesive film, and a port cover.  
+
+- TPU Portal: Laser cut from 5 mil TPU.  The portal is an inverted “mercedes” design, with circular relief holes at the tip of each cut to minimize the potential for tearing.  It can be CNC cut on a laser cutter or a knife cutting machine such as a ZUND.
+- Adhesive Ring: The adhesive ring can be cut from a sheet of adhesive film.  
+- The port cover/flap 
+
+#### C) Bed attachment mechanism
+> Image Here 🤖
+
+Perforations are located on the base perimeter (dark blue in Reference drawing) of the back plate to enable the use of cords/straps in order to attach the Apollo to different sized beds.
+
+#### D) Drape
+> Image Here 🤖
+
+The drape is a rectangular piece of LDPE with dimensions 85” x 40” . Refer to the reference drawing and assembly instructions for details. A 12” offset has been left on both ends to facilitate tucking under the patient to get a good seal. 
+
+#### E) Tail Piece
+> Image Here 🤖
+A small sheet of LDPE (Same as Drape) is stuck on the back plate and tucked under the baseplate to cover the gap between the baseplate and the back wall to maintain the seal.
