@@ -101,3 +101,13 @@ The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be 
 #### 2. Base-Plate Braking/Bending
  > Image 🤖
 ![Apollo3 Patient Isolation Hood](assets/3_Baseplate.jpg)
+*Caution : Do not score the material before bending/braking* 
+
+The baseplate portion of the Apollo PIH enclosure must be cold-formed to a 90 degree angle relative to the rest of the enclosure prior to assembly.  To date, this has been successfully accomplished on a sheet metal finger brake such as the Baileigh SBR-4020 shear brake roll ([Link](https://www.baileigh.com/shear-brake-roll-sbr-4020)).
+Additional forming processes such as the use of a line brake or heat gun, or design modifications to the enclosure such as eliminating the base plate or incorporating a secondary hinge mechanism, exist as potential alternatives though they have not been tested by the design team. 
+
+#### 3. Push-in Rivets
+![Apollo3 Patient Isolation Hood](assets/4_Rivets.jpg)
+
+Push-in plastic rivets were selected as the preferred fastener, as they were simple to use and had no sharp edges that could catch on to clothing, medical instruments etc. 3/16” holes in the main enclosure facilitate the riveting and was done by hand. 16 rivets are needed (8 per side of symmetry) for maintaining the shape of the Apollo while 2 rivets (or 1 rivet & a buttonsnap)are needed for the baseplate ( 1 to pivot and 1 to lock).
+![Apollo3 Patient Isolation Hood](assets/4a_Baseplatelock.gif)
