@@ -114,6 +114,10 @@ Push-in plastic rivets were selected as the preferred fastener, as they were sim
 ![Apollo3 Patient Isolation Hood](assets/4a_Baseplatelock.gif)
 *The width of the Apollo can be adjusted by adjusting the location of the pivot and the lock.Multiple perforations can be added to have it adapt to a range of widths.*
 
+<p align="center">
+  <img width="460" height="300" src="assets/4a_Baseplatelock.gif">
+</p>
+
 #### B) ArmPorts + Auxiliary Ports
 > Image Here 🤖
 
