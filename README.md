@@ -31,7 +31,7 @@ Except where otherwise noted, content on this project is licensed under a [Creat
 ## Project Overview
 
 > Add image here 🤖
-> ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.jpg)
+> ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.png)
 
 ### Description
 The Apollo Patient Isolation Hood (PIH) is a localized negative-pressure ventilation system for hospital beds to help contain the droplet spread of COVID-19, including during aerosol-generating medical procedures such as intubation and extubation. The PIH encloses a patient’s upper torso and head in a negative-pressure environment. It provides barrier protection between healthcare provider (HCP) and patient, and aerosol control via the negative pressure environment. The hood may also contain the spread of the virus from less critically-ill patients, reducing the need for invasive procedures.
@@ -44,7 +44,7 @@ The primary design goal of the hood was to enclose the patient’s torso and hea
 ### Key Features
 The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 0.15 m3 in volume.
 > Update image 🤖
-> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.jpg)
+> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.png)
 
 Several key features of the prototype are outlined below:
 - (2) arm ports at the rear of the PIH provide healthcare provider (HCP) access to the patient. - An additional auxiliary port on one side of the PIH allows for additional patient access as needed.
