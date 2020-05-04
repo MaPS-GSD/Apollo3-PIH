@@ -109,5 +109,6 @@ Additional forming processes such as the use of a line brake or heat gun, or des
 #### 3. Push-in Rivets
 ![Apollo3 Patient Isolation Hood](assets/4_Rivets.jpg)
 
-Push-in plastic rivets were selected as the preferred fastener, as they were simple to use and had no sharp edges that could catch on to clothing, medical instruments etc. 3/16” holes in the main enclosure facilitate the riveting and was done by hand. 16 rivets are needed (8 per side of symmetry) for maintaining the shape of the Apollo while 2 rivets (or 1 rivet & a buttonsnap)are needed for the baseplate ( 1 to pivot and 1 to lock).
+Push-in plastic rivets were selected as the preferred fastener, as they were simple to use and had no sharp edges that could catch on to clothing, medical instruments etc. 3/16” holes in the main enclosure facilitate the riveting and was done by hand. 16 rivets are needed (8 per side of symmetry) for maintaining the shape of the Apollo while 2 rivets (or 1 rivet & a button snap)are needed for the baseplate ( 1 to pivot (*red*) and 1 to lock (*blue*)).
+
 ![Apollo3 Patient Isolation Hood](assets/4a_Baseplatelock.gif)
