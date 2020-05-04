@@ -38,7 +38,7 @@ The primary design goal of the hood was to enclose the patient’s torso and hea
 ### Key Features
 The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 0.15 m3 in volume.
 
-> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.jpg)
+> ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.png)
 
 Several key features of the prototype are outlined below:
 - (2) arm ports at the rear of the PIH provide healthcare provider (HCP) access to the patient. - An additional auxiliary port on one side of the PIH allows for additional patient access as needed.
@@ -117,7 +117,13 @@ Push-in plastic rivets were selected as the preferred fastener, as they were sim
 
 
 #### B) ArmPorts + Auxiliary Ports
-> Image Here 🤖
+
+ <p align="center">
+  <img  src="assets/5_Armports.png">
+  <img  src="assets/6_Aux.png">
+  <img  src="assets/6a_Suction.png">
+</p>
+
 
 Each arm and auxiliary port on the Apollo PIH is composed of three primary components - a laser-cut 5 mil TPU portal, a clear, double-sided adhesive film, and a port cover.  
 
@@ -126,18 +132,23 @@ Each arm and auxiliary port on the Apollo PIH is composed of three primary compo
 - The port cover/flap 
 
 #### C) Bed attachment mechanism
-> Image Here 🤖
+<p align="center">
+  <img  src="assets/8_Chord.png">
+</p>
 
-Perforations are located on the base perimeter (dark blue in Reference drawing) of the back plate to enable the use of cords/straps in order to attach the Apollo to different sized beds.
+Perforations are located on the base perimeter (dark blue in _Reference drawing_) of the back plate to enable the use of cords/straps in order to attach the Apollo to different sized beds.
 
 #### D) Drape
-> Image Here 🤖
+<p align="center">
+  <img  src="assets/7_Drape.png">
+</p>
 
 The drape is a rectangular piece of LDPE with dimensions 85” x 40” . Refer to the reference drawing and assembly instructions for details. A 12” offset has been left on both ends to facilitate tucking under the patient to get a good seal. 
 
 #### E) Tail Piece
-> Image Here 🤖
-> 
+<p align="center">
+  <img  src="assets/7a_Tail.png">
+</p> 
 A small sheet of LDPE (Same as Drape) is stuck on the back plate and tucked under the baseplate to cover the gap between the baseplate and the back wall to maintain the seal.
 
 ### Assembly
