@@ -4,6 +4,8 @@
 
 Apollo3 Patient Isolation Hood
 
+![Apollo3 Patient Isolation Hood](assets/hero_placeholder.jpg)
+
 ### Disclaimer
 The Apollo PIH has been tested by clinicians at Massachusetts General Hospital and Boston Children's Hospital, but there are many different regulations regarding medical devices so please follow local guidelines that apply to your region. Please note that safety is the primary objective. Medical equipment must be approved before it is distributed. This is possibly a matter of life or death. 
 
