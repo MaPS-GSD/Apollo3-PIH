@@ -1,7 +1,8 @@
-# Apollo3-Patient Isolation Hood
+# Apollo3-PIH
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+Apollo3 Patient Isolation Hood
 ![Apollo3 Patient Isolation Hood](assets/0_TitleImage_Hero.jpg)
 ## General Information
 
@@ -16,6 +17,10 @@
 
 
 ### Disclaimer
+Please note: On Friday, May 1 the FDA issued an Emergency Use Authorization for Protective Barrier Enclosures.  The authorization provides specific guidance for manufacturing.  The Apollo PIH has not yet been evaluated with respect to these guidelines.  The letter and two associated fact sheets are available at [https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe).  
+
+Please also note: The Apollo PIH is under active development and refinement.  Please check this repository often for design modifications and additional information. 
+
 The Apollo PIH has been tested by clinicians at Massachusetts General Hospital and Boston Children's Hospital, but there are many different regulations regarding medical devices so please follow local guidelines that apply to your region. Please note that safety is the primary objective. Medical equipment must be approved before it is distributed. This is possibly a matter of life or death. 
 
 This work may be reproduced, modified, distributed, performed, and displayed for any purpose, but must acknowledge the Apollo PIH project. Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all liability.
