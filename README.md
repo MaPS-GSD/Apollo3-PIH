@@ -149,3 +149,33 @@ A small sheet of LDPE (Same as Drape) is stuck on the back plate and tucked unde
 - Step 06: Attach the plastic drape to the front edge of the Apollo PIH using double-sided tape.
 - Step 07: Fasten the provided straps to one side of the Apollo PIH.
 - Step 08: Adhere clear tape over the external seams of the Apollo PIH (one per side), taking care to completely cover the seam. 
+
+### Alternate Details
+Below are some alternative details we have experimented with towards the end goal as design variants but these are yet to be tested clinically.
+
+- **Material**
+
+    While the Apollo PIH is designed to be fabricated from PET-G measuring 60mil (~1/16”) in thickness, though early prototypes fabricated from thinner, 30mil (~1/32”) were also sufficiently rigid. 
+
+- **Form**
+
+    Following alternatives have not been checked thoroughly in a clinical setting  and have only been provided as suggestions.
+
+  - Apollo 1 Main Feature:
+    - Use of Tabs and Slots instead of hardware
+    ![Apollo3 Patient Isolation Hood](assets/10_Apollo1.jpg)
+
+  - Apollo 1.5_Minimal Main Feature:
+    - Reduction of overlap and material.
+    ![Apollo3 Patient Isolation Hood](assets/11_Apollo1a.jpg)
+
+- **Arm Ports**
+  >Image Here 🤖
+  ![Apollo3 Patient Isolation Hood](assets/12_Armport.jpg)
+
+Multiple iterations of the armport design were undertaken with various materials and can be found in the diagram above. 
+- Versions a and f Require a thinner gauge or extensible material as they can otherwise restrict arm movements while in use. Version f also requires a secondary drape taped over the opening to maintain a seal
+- Versions b, c, and e work well with the specified 5+mil TPU and 1/16” silicone sheets (available on McMaster Carr). They feature a self-closing design and when used with the silicone sheets may not require a covering drape. Version c is best for thinner materials that lack the stiffness to hold their shape overwise
+- Version d makes use of disposable PPE sleeves widely available in many material types. The sleeve is stretched around a rubber porthole seal (such as [this product).
+- Version g simply uses two pieces of the drape material with an overlap to help limit air escape when in use.
+- Clear PVC sheets were experimented with in both 0.08” and 0.04” thicknesses but were found to be too stiff to work properly and often grabbed at the sleeves and gloves when in use. 
