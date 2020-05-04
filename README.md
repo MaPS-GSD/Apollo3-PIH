@@ -27,6 +27,7 @@ Except where otherwise noted, content on this project is licensed under a [Creat
 ## Project Overview
 
 > Add image here 🤖
+> ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.jpg)
 
 ### Description
 The Apollo Patient Isolation Hood (PIH) is a localized negative-pressure ventilation system for hospital beds to help contain the droplet spread of COVID-19, including during aerosol-generating medical procedures such as intubation/extubation. The PIH encloses a patient’s upper torso and head in a negative-pressure environment. It provides barrier protection between healthcare provider and patient, while the negative pressure environment reduces the likelihood that the aerosolized particles will spread. The hood may also contain the spread of the virus from less critically-ill patients, reducing the need for invasive procedures such as intubation.
@@ -134,4 +135,17 @@ The drape is a rectangular piece of LDPE with dimensions 85” x 40” . Refer t
 
 #### E) Tail Piece
 > Image Here 🤖
+> 
 A small sheet of LDPE (Same as Drape) is stuck on the back plate and tucked under the baseplate to cover the gap between the baseplate and the back wall to maintain the seal.
+
+### Assembly
+> Image Here 🤖
+> 
+- Step 01: Place Apollo PIH enclosure on a flat surface with the folded baseplate facing upwards.  
+- Step 02: Fasten the opposing sides of the baseplate together using two push-in rivets located on the baseplate.  See detail A for connection detail.  
+- Step 03: Fold one side arm toward the interior of the enclosure.  Fasten to the main portion of the enclosure using (8) push-in rivets. 
+- Step 04: Repeat Step 03 for the opposite side arm.
+- Step 05: Place the Apollo PIH upright so that the baseplate is resting on a horizontal surface. 
+- Step 06: Attach the plastic drape to the front edge of the Apollo PIH using double-sided tape.
+- Step 07: Fasten the provided straps to one side of the Apollo PIH.
+- Step 08: Adhere clear tape over the external seams of the Apollo PIH (one per side), taking care to completely cover the seam. 
