@@ -58,22 +58,22 @@ Several key features of the prototype are outlined below:
 ### Bill of Materials
 
 Item Description  | Dimensions( in or sqrIn) | Quantity | Link | Notes
-  ------------- | ------------- | -------------| -------------| -------------| -------------
-3/16" bungee cord  | 12" | 2 | [Amazon](https://www.amazon.com/T-W-Evans-Cordage-SC-316-100-100-Feet/dp/B00DKA4VQG/ref=sr_1_3?dchild=1&keywords=white+bungee+cord+3%2F16%22&qid=1587383739&s=sporting-goods&sr=1-3-catcorr)
-Velcro cord management strap  | n/a | 2 | [Amazon](https://www.amazon.com/Pasow-Reusable-Fastening-Adjustable-Management/dp/B01CFKQYAW/ref=sr_1_4?dchild=1&keywords=cord+management+velcro+white&qid=1587394037&sr=8-4)
-Adjustment Hook  | n/a | 2 | [Amazon](https://www.homedepot.com/p/ProGrip-Better-Than-Bungee-6-ft-100-lbs-Break-Strength-Particle-Rope-Lock-Paracord-055160/206957471?modalType=drawer)
-Push-In Rivet  | n/a | 17 | [McMaster-Carr](https://www.mcmaster.com/90136a574)
-Button Snaps  | n/a | 1 |  [McMaster-Carr](https://www.mcmaster.com/95691a660) | *1*
-Drape tape / seam tape (must be low surface energy tape)  | 61" | 1 | [HomeDepot](https://www.homedepot.com/p/Gorilla-1-5-in-x-5-yds-Crystal-Clear-Tape-5-Pack-6015002/205493971?mtc=Shopping-B-F_D24-G-D24-Multi-Multi-NA-Feed-PLA-NA-NA-All_Paint&cm_mmc=Shopping-B-F_D24-G-D24-Multi-Multi-NA-Feed-PLA-NA-NA-All_Paint-71700000032325895-58700003835893718-92700030694006321&gclid=CjwKCAjwkPX0BRBKEiwA7THxiJXWI0-JAcbqYryMsjvaev1nBxPw_FWMW1czSJxp9qHvZyLyDKl_yhoCxfgQAvD_BwE&gclsrc=aw.ds) | *2*
-LDPE film (2mil)  | 40" | 1 | [Uline](https://www.uline.com/Product/Detail/S-5445/Plastic-Sheeting/Clear-Poly-Sheeting-2-Mil-8-x-200) 
-1/16" PET-G sheet | 72x48" | 1 | n/a
-Tpu film for port holes (2-5mil)  | 13" X 13"| 2 | n/a
-Tpu film for port hole flaps (2-5mil) | 13" x 13" | 2 | n/a
-Adhesive sheet for attaching handports | 13" x 13" | 4 | [Laminator.com](https://www.laminator.com/51-x-150ft-optically-clear-double-sided-mounting-adhesive-permanent-permanent.html)
-Colored vinyl stickers for intuitive assembly and risk warning | n/a | 4 | [Overnightprints.com](https://www.overnightprints.com/stickers)
-95 gallon clear trash bag for disposal | n/a | 1 | [Uline](https://www.uline.com/Product/Detail/S-15540/Trash-Liners-Bags/Uline-Trash-Liners-95-Gallon-25-Mil-Clear?pricode=WB0503&gadtype=pla&id=S-15540&gclid=Cj0KCQjwhZr1BRCLARIsALjRVQOMShqprypOodH6yqqy-GNPSxb2Hep2NU1SgADXMQsUt7F44VXUqlQaAiDwEALw_wcB&gclsrc=aw.ds)
-Instruction Sheet | n/a | 1 
-1 gallon ziploc to hold instructions and cords ||||
+  ------------- | ------------- | -------------| -------------| -------------| ------------- |
+ 3/16" bungee cord  | 12" | 2 | [Amazon](https://www.amazon.com/T-W-Evans-Cordage-SC-316-100-100-Feet/dp/B00DKA4VQG/ref=sr_1_3?dchild=1&keywords=white+bungee+cord+3%2F16%22&qid=1587383739&s=sporting-goods&sr=1-3-catcorr)
+ Velcro cord management strap  | n/a | 2 | [Amazon](https://www.amazon.com/Pasow-Reusable-Fastening-Adjustable-Management/dp/B01CFKQYAW/ref=sr_1_4?dchild=1&keywords=cord+management+velcro+white&qid=1587394037&sr=8-4)
+ Adjustment Hook  | n/a | 2 | [Amazon](https://www.homedepot.com/p/ProGrip-Better-Than-Bungee-6-ft-100-lbs-Break-Strength-Particle-Rope-Lock-Paracord-055160/206957471?modalType=drawer)
+ Push-In Rivet  | n/a | 17 | [McMaster-Carr](https://www.mcmaster.com/90136a574)
+ Button Snaps  | n/a | 1 |  [McMaster-Carr](https://www.mcmaster.com/95691a660) | *1*
+ Drape tape / seam tape (must be low surface energy tape)  | 61" | 1 | [HomeDepot](https://www.homedepot.com/p/Gorilla-1-5-in-x-5-yds-Crystal-Clear-Tape-5-Pack-6015002/205493971?mtc=Shopping-B-F_D24-G-D24-Multi-Multi-NA-Feed-PLA-NA-NA-All_Paint&cm_mmc=Shopping-B-F_D24-G-D24-Multi-Multi-NA-Feed-PLA-NA-NA-All_Paint-71700000032325895-58700003835893718-92700030694006321&gclid=CjwKCAjwkPX0BRBKEiwA7THxiJXWI0-JAcbqYryMsjvaev1nBxPw_FWMW1czSJxp9qHvZyLyDKl_yhoCxfgQAvD_BwE&gclsrc=aw.ds) | *2*
+ LDPE film (2mil)  | 40" | 1 | [Uline](https://www.uline.com/Product/Detail/S-5445/Plastic-Sheeting/Clear-Poly-Sheeting-2-Mil-8-x-200) 
+ 1/16" PET-G sheet | 72x48" | 1 | n/a
+ Tpu film for port holes (2-5mil)  | 13" X 13"| 2 | n/a
+ Tpu film for port hole flaps (2-5mil) | 13" x 13" | 2 | n/a
+ Adhesive sheet for attaching handports | 13" x 13" | 4 | [Laminator.com](https://www.laminator.com/51-x-150ft-optically-clear-double-sided-mounting-adhesive-permanent-permanent.html)
+ Colored vinyl stickers for intuitive assembly and risk warning | n/a | 4 | [Overnightprints.com](https://www.overnightprints.com/stickers)
+ 95 gallon clear trash bag for disposal | n/a | 1 | [Uline](https://www.uline.com/Product/Detail/S-15540/Trash-Liners-Bags/Uline-Trash-Liners-95-Gallon-25-Mil-Clear?pricode=WB0503&gadtype=pla&id=S-15540&gclid=Cj0KCQjwhZr1BRCLARIsALjRVQOMShqprypOodH6yqqy-GNPSxb2Hep2NU1SgADXMQsUt7F44VXUqlQaAiDwEALw_wcB&gclsrc=aw.ds)
+ Instruction Sheet | n/a | 1 
+ 1 gallon ziploc to hold instructions and cords | n/a 
 ---
 *1. The button snap used for locking the fixing the position of the baseplate can be replaced by a push-in rivet if needed.*
 
