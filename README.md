@@ -25,7 +25,6 @@ Except where otherwise noted, content on this project is licensed under a [Creat
 ***
 ## Project Overview
 
-> Add image here 🤖
 > ![Apollo3 Patient Isolation Hood](assets/0a_ApolloViews.jpg)
 
 ### Description
@@ -38,7 +37,7 @@ The primary design goal of the hood was to enclose the patient’s torso and hea
 
 ### Key Features
 The primary design element of the Apollo PIH is the enclosure - a thin sheet of clear PET-G plastic in 60mil (approximately 1/16”) thickness.  The enclosure can be CNC cut from a flat sheet of PET-G  measuring a minimum of 48” x 72”.  The Apollo PIH enclosure measures approximately 22” in width, 23” in height and 22” in depth and is approximately 0.15 m3 in volume.
-> Update image 🤖
+
 > ![Apollo3 Patient Isolation Hood](assets/1_AnnotatedSideView.jpg)
 
 Several key features of the prototype are outlined below:
@@ -48,7 +47,8 @@ Several key features of the prototype are outlined below:
 - Side arms provide a double thickness at the base of the PIH for stability and structure
 - Various suction ports accept common negative pressure hoses, including a ⅞” diameter (common in OR) as well as smaller 3/16” ID tubing (common in the ICU).  
 
-> ### Flow and Pressure Testing 👨‍⚕MGB
+> ### Flow and Pressure Testing - 👨‍⚕MGB
+> Work in Progress
 
 ## Production Details
 > Image 🤖
@@ -98,7 +98,7 @@ The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be 
   - Frequency: 10,000 PPI
 
 #### 2. Base-Plate Braking/Bending
- > Image 🤖
+ 
 ![Apollo3 Patient Isolation Hood](assets/3_Baseplate.jpg)
 *Caution : Do not score the material before bending/braking* 
 
