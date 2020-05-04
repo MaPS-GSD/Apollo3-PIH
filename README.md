@@ -10,4 +10,4 @@ The Apollo PIH has been tested by clinicians at Massachusetts General Hospital a
 This work may be reproduced, modified, distributed, performed, and displayed for any purpose, but must acknowledge the Apollo PIH project. Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all liability.
 
 ### License
-Except where otherwise noted, content on this project is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). See [License](LICENSE.md)
+Except where otherwise noted, content on this project is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). See [License](LICENSE.md).
