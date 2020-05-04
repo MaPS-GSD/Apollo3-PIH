@@ -100,4 +100,4 @@ The Apollo PIH requires a minimum stock size of 72” x 48”. The stock can be 
 
 #### 2. Base-Plate Braking/Bending
  > Image 🤖
-![Apollo3 Patient Isolation Hood](assets/3_BasePlate.jpg)
+![Apollo3 Patient Isolation Hood](assets/3_Baseplate.jpg)
