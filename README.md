@@ -1,8 +1,7 @@
-# Apollo3-PIH
+# Apollo3-Patient Isolation Hood
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Apollo3 Patient Isolation Hood
 ![Apollo3 Patient Isolation Hood](assets/0_TitleImage_Hero.jpg)
 ## General Information
 
