@@ -183,7 +183,7 @@ Below are some alternative details we have experimented with towards the end goa
     ![Apollo3 Patient Isolation Hood](assets/11_Apollo1a.jpg)
 
 - **Arm Ports**
-  >Image Here 🤖
+ 
     <p align="center">
     <img height="500" src="assets/12_Armport.jpg">
     </p>
