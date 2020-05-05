@@ -11,7 +11,7 @@
 
 **Content of Package** :
 - Apollo ReadMe (This) [**Print Ready**](README.pdf)
-- Apollo3 Vector Cut File (.dxf) - [**Download HERE**](Dxf_cut_files/2020_05_04%20Apollo3_Cut.dxf)
+- Apollo3 Vector Cut File (.dxf) - [**Download HERE**](Dxf_cut_files/2020_05_05%20Apollo3_Cut%20File.dxf)
 - Apollo Video:  [**Vimeo Link**](https://vimeo.com/415250896)
 
 
