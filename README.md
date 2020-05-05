@@ -18,6 +18,8 @@
 ### Disclaimer
 Please note: On Friday, May 1 the FDA issued an Emergency Use Authorization for Protective Barrier Enclosures.  The authorization provides specific guidance for manufacturing.  The Apollo PIH has not yet been evaluated with respect to these guidelines.  The letter and two associated fact sheets are available at [https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe).  
 
+The product as a protective barrier enclosure, provides an extra layer of barrier protection in addition to PPE and is not meant to replace PPE.
+
 Please also note: The Apollo PIH is under active development and refinement.  Please check this repository often for design modifications and additional information. 
 
 The Apollo PIH has been tested by clinicians at Massachusetts General Hospital and Boston Children's Hospital, but there are many different regulations regarding medical devices so please follow local guidelines that apply to your region. Please note that safety is the primary objective. Medical equipment must be approved before it is distributed. This is possibly a matter of life or death. 
@@ -52,10 +54,10 @@ Several key features of the prototype are outlined below:
 - Various suction ports accept common negative pressure hoses, including a ⅞” diameter (common in OR) as well as smaller 3/16” ID tubing (common in the ICU).  
 
 > ### Flow and Pressure Testing - 👨‍⚕MGB
-> Work in Progress
+    Work in Progress
+    Negative Pressure Hood Working:-  [Youtube Link](https://youtu.be/yTqlieDpH2M)
 
 ## Production Details
-> Image 🤖
 ![Apollo3 Patient Isolation Hood](assets/2_ReferenceDrawing.jpg)
 
 
