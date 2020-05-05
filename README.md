@@ -10,9 +10,9 @@
 **Keywords** :Patient Isolation Hood, PIH, PPE
 
 **Content of Package** :
+- Apollo ReadMe (This)
 - Apollo Vector Cut File (.dxf) - [**Download HERE**](Dxf_cut_files/2020_05_04%20Apollo3_Cut.dxf)
-- Apollo ReadMe
-- Apollo Video (Coming Soon)
+- Apollo Video:  [**Vimeo Link**](https://vimeo.com/415250896)
 
 
 ### Disclaimer
