@@ -196,7 +196,9 @@ Multiple iterations of the armport design were undertaken with various materials
 - Clear PVC sheets were experimented with in both 0.08” and 0.04” thicknesses but were found to be too stiff to work properly and often grabbed at the sleeves and gloves when in use. 
 
 ## Documentation
-> Contact Sheet Here 🖼
+<p align="center">
+    <img height="800" src="assets/13_ContactSheet.png">
+    </p>
 
 
 ## Attribution 
