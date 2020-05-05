@@ -224,7 +224,7 @@ Nathan Phipps, Chris Hansen,
 ## References
 
 ### Press
-- Harvard GSD Press Release [Link]()
+- Harvard GSD Press Release _ WIP  [Link]()
 - Selected Articles
     - https://news.harvard.edu/gazette/story/2020/04/graduate-school-of-design-begins-ppe-production-for-area-hospitals/                                                 
     - https://www.architecturalrecord.com/articles/14570-architects-and-engineers-help-develop-isolation-hood-for-covid-19-patients     
