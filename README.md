@@ -52,10 +52,11 @@ Several key features of the prototype are outlined below:
 - Adaptable attachment mechanism allows for use on a variety of bed types (OR, ICU, etc.)
 - Side arms provide a double thickness at the base of the PIH for stability and structure
 - Various suction ports accept common negative pressure hoses, including a ⅞” diameter (common in OR) as well as smaller 3/16” ID tubing (common in the ICU).  
-
-> ### Flow and Pressure Testing - 👨‍⚕MGB
-    Work in Progress
-    Negative Pressure Hood Working:-  [Youtube Link](https://youtu.be/yTqlieDpH2M)
+***
+ ### Flow and Pressure Testing - 👨‍⚕MGB
+  Work in Progress
+  Negative Pressure Hood Working:-  [YouTube Link](https://youtu.be/yTqlieDpH2M)
+  ***
 
 ## Production Details
 ![Apollo3 Patient Isolation Hood](assets/2_ReferenceDrawing.jpg)
