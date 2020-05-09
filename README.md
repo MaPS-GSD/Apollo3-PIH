@@ -14,7 +14,7 @@
 - Apollo3 Vector Cut File (.dxf) - [**Download HERE**](Dxf_cut_files/2020_05_05%20Apollo3_Cut%20File.dxf)
 - Apollo Video:  [**Vimeo Link**](https://vimeo.com/415250896)
 
->**For questions, comments, issues and feedback email : [Map+S Group](mailto:mapsgroup@gsd.harvard.edu?subject=[Apollo3-PIH])**
+>**For questions, comments, issues and feedback email : [MaP+S Group](mailto:mapsgroup@gsd.harvard.edu?subject=[Apollo3-PIH])**
 
 
 ### Disclaimer
