@@ -14,8 +14,9 @@
 - Apollo3 Vector Cut File (.dxf) - [**Download HERE**](Dxf_cut_files/2020_05_05%20Apollo3_Cut%20File.dxf)
 - Apollo Video:  [**Vimeo Link**](https://vimeo.com/415250896)
 
+---
 >**For questions, comments, issues and feedback email : [MaP+S Group](mailto:mapsgroup@gsd.harvard.edu?subject=[Apollo3-PIH])**
-
+---
 
 ### Disclaimer
 Please note: On Friday, May 1 the FDA issued an Emergency Use Authorization for Protective Barrier Enclosures.  The authorization provides specific guidance for manufacturing.  The Apollo PIH has not yet been evaluated with respect to these guidelines.  The letter and two associated fact sheets are available at [https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ppe).  
