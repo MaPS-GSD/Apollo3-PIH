@@ -205,11 +205,12 @@ Multiple iterations of the armport design were undertaken with various materials
 - Clear PVC sheets were experimented with in both 0.08” and 0.04” thicknesses but were found to be too stiff to work properly and often grabbed at the sleeves and gloves when in use. 
 
 ## Documentation
-Evolution
+>Evolution
 <p align="center">
     <img  src="assets/13a_ApolloTaxonomy.jpg">
     </p>
-
+    
+>Apollo3
 <p align="center">
     <img height="800" src="assets/13_ContactSheet.png">
     </p>
@@ -252,4 +253,4 @@ Nathan Phipps, Chris Hansen,
 ### Similar Efforts
 - [MIT Center for Bits and Atoms](https://gitlab.cba.mit.edu/pub/coronavirus/tracking)
 - [Toledo plastic companies](https://www.wtol.com/article/news/health/coronavirus/local-plastic-companies-create-device-for-protecting-healthcare-workers/512-0068d863-82f7-436e-97ea-66212c4a67f8)
-  
+- [Care Shield](https://www.wcpo.com/news/coronavirus/cincinnati-doctors-invention-helps-protect-nycs-frontline-health-care-workers-from-covid-19)  
