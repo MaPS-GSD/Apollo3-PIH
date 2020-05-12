@@ -255,3 +255,4 @@ Nathan Phipps, Chris Hansen,
 - [MIT Center for Bits and Atoms](https://gitlab.cba.mit.edu/pub/coronavirus/tracking)
 - [Toledo plastic companies](https://www.wtol.com/article/news/health/coronavirus/local-plastic-companies-create-device-for-protecting-healthcare-workers/512-0068d863-82f7-436e-97ea-66212c4a67f8)
 - [Care Shield](https://www.wcpo.com/news/coronavirus/cincinnati-doctors-invention-helps-protect-nycs-frontline-health-care-workers-from-covid-19)  
+- [Stuck Design](https://www.youtube.com/watch?v=cFtV-cP0PMo)
