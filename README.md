@@ -239,6 +239,48 @@ Nathan Phipps, Chris Hansen,
 - The Boston Children’s Hospital Surgical Innovation Fellowship team, including Heung Bae Kim, MD; Farokh Demehri, MD; Robert Crum, MD; Kyle Wu, MD; Brianna Slatnick, MD; and Alex Yang, BS, helped to develop the first versions of the Apollo design and provided clinical input throughout the design process.
 - Initial design prototypes were produced with the help of PolyFab, and Roger Diebold (CEO, Solchroma Technologies) along with H. Loeb Corporation.
 
+A full attribution list is as follows
+Aaron Ross,
+Adam Smith,
+Aditya Kumar,
+Alex Kobald,
+Alex Yang,
+Alexander Kuo,
+Angela Dai,
+Brianna Slatnick,
+Celeste Day,
+Chris Hansen,
+Chris White,
+Daniel Castelo,
+Daniel Tish,
+David Concha,
+David Hamm,
+David Wallace,
+Eric Howeler,
+Euan Mowat,
+Farokh Demehri,
+Fernanda Sakamoto,
+Heung Bae Kim,
+James Weaver,
+Jonathan Grinham,
+Jonathan Langer,
+Koushik Garapti,
+Kristian Olson,
+Kyle Wu,
+Lara Tomholt,
+Martin Bechthold,
+Mehra Golshan,
+Michael Sherman,
+Michele Szabo,
+Norman Wen,
+Robert Crum,
+Ryan Pierce,
+Sam Smith,
+Saurabh Mhatre,
+Ted Ngai,
+Ted Sirota,
+Zach Seibold.
+
 ## References
 
 ### Press
