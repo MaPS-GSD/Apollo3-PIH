@@ -284,7 +284,7 @@ Zach Seibold.
 ## References
 
 ### Press
-- Harvard GSD Press Release _ WIP  [Link]()
+- Harvard GSD Press Release [Link](https://www.gsd.harvard.edu/2020/05/gsd-participates-in-global-open-source-effort-to-develop-patient-isolation-hoods-for-boston-hospitals/)
 - Selected Articles
     - https://news.harvard.edu/gazette/story/2020/04/graduate-school-of-design-begins-ppe-production-for-area-hospitals/                                                 
     - https://www.architecturalrecord.com/articles/14570-architects-and-engineers-help-develop-isolation-hood-for-covid-19-patients     
