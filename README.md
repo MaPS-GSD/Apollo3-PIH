@@ -217,7 +217,7 @@ Multiple iterations of the armport design were undertaken with various materials
     </p>
 
 
->Apollo3
+>Apollo3 Clinical Testing
 <p align="center">
     <img height="800" src="assets/14_MGHpics.jpg">
     </p>
