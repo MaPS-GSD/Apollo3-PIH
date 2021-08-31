@@ -225,10 +225,10 @@ Multiple iterations of the armport design were undertaken with various materials
 
 ## Update - 2021_08_31 - Apollo 4 - Production Model (Nathan Phipps)
 Introduction (Nathan)
-<img height="800" src="apollo3_productionModel_front.jpg">
-<img height="800" src="apollo3_productionModel_side.jpg">
-<img height="800" src="apollo3_productionModel_use.png">
-<img height="800" src="apollo3_productionModel_nestedForShipping.jpg">
+<img height="600" src="apollo3_productionModel_front.jpg">
+<img height="600" src="apollo3_productionModel_side.jpg">
+<img height="600" src="apollo3_productionModel_use.png">
+<img height="600" src="apollo3_productionModel_nestedForShipping.jpg">
 
 ## Attribution 
 
