@@ -230,10 +230,10 @@ Multiple iterations of the armport design were undertaken with various materials
 - Apollo4 BOQ (.xlsx) - [**Download HERE**](apollo3_productionModel_BOM.xlsx)
 
 
-<img height="600" src="apollo3_productionModel_front.jpg">
-<img height="600" src="apollo3_productionModel_side.jpg">
-<img height="600" src="apollo3_productionModel_use.png">
-<img height="600" src="apollo3_productionModel_nestedForShipping.jpg">
+<img width="600" src="apollo3_productionModel_front.jpg">
+<img width="600" src="apollo3_productionModel_side.jpg">
+<img width="600" src="apollo3_productionModel_use.png">
+<img width="600" src="apollo3_productionModel_nestedForShipping.jpg">
 
 ## Attribution 
 
