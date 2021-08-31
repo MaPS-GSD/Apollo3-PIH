@@ -224,7 +224,12 @@ Multiple iterations of the armport design were undertaken with various materials
 
 
 ## Update - 2021_08_31 - Apollo 4 - Production Model (Nathan Phipps)
-Introduction (Nathan)
+-Introduction (Nathan)
+- Apollo4  Assembly Instructions [**Print Ready**](apollo3_productionModel_instructionsForAssembly.pdf)
+- Apollo4 Vector Cut File (.dxf) - [**Download HERE**](apollo3_productionModel_mainBody_twoPer4x8Sheet.dxf)
+- Apollo4 BOQ (.xlsx) - [**Download HERE**](apollo3_productionModel_BOM.xlsx)
+
+
 <img height="600" src="apollo3_productionModel_front.jpg">
 <img height="600" src="apollo3_productionModel_side.jpg">
 <img height="600" src="apollo3_productionModel_use.png">
