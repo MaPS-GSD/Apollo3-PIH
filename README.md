@@ -232,13 +232,12 @@ Apollo 4 includes several modifications for manufacturing efficiencies as well a
 - Apollo4 BOQ (.xlsx) - [**Download HERE**](apollo3_productionModel_BOM.xlsx)
 
 <p float="left">
-<img width="50%" src="apollo3_productionModel_front.jpg">
-<img width="50%" src="apollo3_productionModel_side.jpg">
+<img width="45%" src="apollo3_productionModel_front.jpg">
+<img width="45%" src="apollo3_productionModel_side.jpg">
 </p>
-
-<p float="right">
-<img width="50%" src="apollo3_productionModel_use.png">
-<img width="50%" src="apollo3_productionModel_nestedForShipping.jpg">
+<p float="left">
+<img width="45%" src="apollo3_productionModel_use.png">
+<img width="45%" src="apollo3_productionModel_nestedForShipping.jpg">
 </p>
 <p float="left">
   <img src="IMG_0724.jpg" width="400" />
