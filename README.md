@@ -237,12 +237,12 @@ Apollo 4 includes several modifications for manufacturing efficiencies as well a
 <img width="800" src="apollo3_productionModel_use.png">
 <img width="800" src="apollo3_productionModel_nestedForShipping.jpg">
 <p float="left">
-  <img src="IMG_0724.jpg" width="100" />
-  <img src="IMG_0745.jpg" width="100" /> 
+  <img src="IMG_0724.jpg" width="600" />
+  <img src="IMG_0745.jpg" width="600" /> 
 </p>
 <p float="left">
-  <img src="IMG_0757.jpg" width="100" />
-  <img src="IMG_0776h.jpg" width="100" /> 
+  <img src="IMG_0757.jpg" width="600" />
+  <img src="IMG_0776h.jpg" width="600" /> 
 </p>
 
 ## Attribution 
