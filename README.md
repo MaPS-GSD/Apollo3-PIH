@@ -223,8 +223,8 @@ Multiple iterations of the armport design were undertaken with various materials
     </p>
 
 
-## Update - 2021_08_31 - Apollo 4 - Production Model (Nathan Phipps)
-- Description
+## Update - 2021_08_31 - Apollo 4 - Production Model by Nathan Phipps
+- Description:
 Apollo 4 includes several modifications for manufacturing efficiencies as well as continued requests from clinicians. Clinical updates include an extra set of hand ports for accessing patients, removal of the TPU auxiliary port located on the upper right (clinicians view) of the unit, and addition of elliptical suction ports to allow for cylindrical suction tubes entering at a steep angle into the hood. The main alteration for manufacturability was modified PETG body shape which could allow for two units to be cut out of a single 4'x8' sheet, thus increasing yield in production. This new shape was created by removing the "wings", which offered increased stability and stiffness and instead broadening the base of the unit to increase stability. Apollo Medical Solutions, a company started by Nate Phipps and Chris Tolles was formed to facilitate production and distribution of the Apollo 4; the device was produced by H. Loeb Corporation of New Bedford, MA and purchased for testing by Massachusetts General Hospital. 
 
 - Apollo4  Assembly Instructions [**Print Ready**](apollo3_productionModel_instructionsForAssembly.pdf)
